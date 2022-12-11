@@ -1,2 +1,24 @@
 В ветке demo сначала добавили hat, затем boots и слили в release, потом dots и слили в demo.
 В ветке master сначала слились boots и buttons в boots_buttons, потом hat и boots_buttons в master.
+
+16 коммитов
+Коммиты:
+
+Merge pull request #2 from al3ksandraa/revert-1-master (кривая неудачная попытка загрузки в репозиторий)
+Revert "Master"
+Merge pull request #1 from al3ksandraa/master 
+
+Сетевой repo #2
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+Merge remote-tracking branch 'origin/buttons' into BootsButtons 
+Merge remote-tracking branch 'origin/boots' into BootsButtons (повторяется дважды, т. к. на домашнем компьютере пришлось переделывать 1 задание)
+
+dots
+README added
+boots
+heat added
+init
