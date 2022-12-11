@@ -1,0 +1,2 @@
+В ветке demo сначала добавили hat, затем boots и слили в release, потом dots и слили в demo.
+В ветке master сначала слились boots и buttons в boots_buttons, потом hat и boots_buttons в master.
